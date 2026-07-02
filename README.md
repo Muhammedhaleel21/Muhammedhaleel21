@@ -12,9 +12,11 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    Aspiring Full-Stack Developer and Computer Science student passionate about building scalable and user-focused digital solutions. Interested in web development, software engineering, and emerging technologies, with experience across both frontend and backend development.
+    Aspiring Full-Stack Developer and Computer Science student with a strong interest in building scalable, user-focused digital solutions. Passionate about web development, software engineering, and emerging technologies, with experience working across both frontend and backend development.
 
-A fast learner with a growth mindset, continuously exploring new technologies, AI-powered tools, and modern development practices to solve problems and create impactful applications.
+Continuously exploring modern frameworks, development tools, and AI-powered workflows to create efficient, intuitive, and impactful applications. A fast learner with a growth mindset, always eager to adapt to new technologies, solve challenging problems, and expand technical expertise in an ever-evolving industry.
+
+Driven by curiosity, innovation, and a commitment to continuous learning and professional growth.
 
 
   </p>
